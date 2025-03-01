@@ -72,7 +72,7 @@ const BillComponent = forwardRef((props, ref) => {
             <thead>
               <tr className="bg-gray-100 border-b">
                 <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                  Item
+                  No.
                 </th>
                 <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                   Description
